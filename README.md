@@ -1,8 +1,5 @@
 # U-SAMNet: Supplementary Code
 
-**Paper:** U-SAMNet: Uncertainty-aware Self-Attention Multi-task Network for Pore Detection in Additive Manufacturing
-**Manuscript ID:** applsci-4356152
-**Journal:** Applied Sciences (MDPI)
 **Authors:** Prosenjit Roy, Kijoon Lee, Mohsen Taheri Andani, Toan Truong, Haojun You, Noushin Ghaffari
 **Affiliations:** Prairie View A\&M University / Texas A\&M University
 
